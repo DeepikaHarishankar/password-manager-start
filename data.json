@@ -1,0 +1,34 @@
+{
+    "Amazon": {
+        "email": "deepika.see@gmail.com",
+        "password": "*2g1(nmXYB1$bhG"
+    },
+    "Ebay": {
+        "email": "deepika.see@gmail.com",
+        "password": ")Rgn+kz6A)2F7&0eY"
+    },
+    "Gmail": {
+        "email": "deepika4test@gmail.com",
+        "password": "oIL1Z#3+adZxIM2"
+    },
+    "Yahoo": {
+        "email": "deepika_swankar@yahoo.com",
+        "password": "(o8yi1D$3vDjs6ht"
+    },
+    "pythonanywhere": {
+        "email": "deepika.see@gmail.com",
+        "password": "!D8nyFlqI81L(c4l"
+    },
+    "openweathermap": {
+        "email": "deepika.see@gmail.com",
+        "password": "#G4I2pOM2($EVze3"
+    },
+    "twilio": {
+        "email": "deepika.see@gmail.com",
+        "password": "o%tvHg0Kx(0z8"
+    },
+    "leetcode": {
+        "email": "deepika.see@gmail.com",
+        "password": "272c#x(oVRvxQ$8"
+    }
+}
